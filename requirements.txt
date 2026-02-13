@@ -1,0 +1,4 @@
+pelita
+# needed for some bots
+matplotlib
+pandas
